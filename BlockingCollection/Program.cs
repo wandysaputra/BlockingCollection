@@ -33,4 +33,5 @@ Task.WaitAll(loggingTasks);
 
 controller.DisplayStock();
 staffLogs.DisplayCommissions(staff);
+Console.ReadKey();
 
